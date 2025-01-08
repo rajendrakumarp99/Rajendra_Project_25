@@ -8,6 +8,8 @@ public class DemoApplication {
 int i=20;
 int j=23;
 int x=333;
+int r=123;
+int z=234;
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
