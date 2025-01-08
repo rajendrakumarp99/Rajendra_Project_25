@@ -10,7 +10,9 @@
 	</parent>
 	<groupId>rajendra_25</groupId>
 	<artifactId>demo</artifactId>
+
 	<version>0.0.1-ReLEASE</version>
+
 	<name>demo</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
